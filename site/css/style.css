@@ -1,0 +1,15 @@
+body {
+	font-size: 16px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: lightcoral;
+	border-radius: 0;
+	border: 0;
+}
+
+#menu-chicken-section, #menu-beef-section, #menu-sushi-section {
+	background-color: lightcoral;
+	height: 700px;
+}
